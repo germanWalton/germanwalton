@@ -1,5 +1,5 @@
 ### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px">
-<em>I am Germán, a Frontend Developer from Argentina</em>
+<em>I am Germán, a Fullstack Developer from Argentina</em>
  <br/>
 ## Ask me about :computer: 
 
@@ -12,6 +12,9 @@
 	- React with Context Api
   - SASS
   - JQuery
+  - Node Js
+  - Express
+  - Mongo DB
 
 ## 🌱 I’m currently learning ...
 - **Backend**
