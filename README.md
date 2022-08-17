@@ -12,9 +12,16 @@
 	- React with Context Api
   - SASS
   - JQuery
-  - Node Js
+  - Node.js
   - Express
   - Mongo DB
+  - MYSQL
+  - Sequelize
+  - Mongoose
+  - Postman
+  - Mocha+Chai
+  - JWT
+  - Swagger
 
 ## 🌱 I’m currently learning ...
 - **Backend**
