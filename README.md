@@ -24,7 +24,7 @@
   - Swagger
 
 ## 🌱 I’m currently learning ...
-- **Backend**
+- **NestJs**
 
 <br/>
   <br/>
