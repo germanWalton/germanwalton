@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/germanwalton/"><img src="https://img.shields.io/badge/LinkedIn-germanwalton-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <img src="https://img.shields.io/badge/Open_to-remote_roles-2ea44f?style=for-the-badge" alt="Open to remote roles" />
+  <a href="https://www.linkedin.com/in/germanwalton/"><img src="https://img.shields.io/badge/Open_to-remote_roles-2ea44f?style=for-the-badge" alt="Open to remote roles" /></a>
 </p>
 
 ---
