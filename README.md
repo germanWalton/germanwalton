@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Germán Walton 👋</h1>
 
 <p align="center">
-  <b>Backend Developer & Technical Lead</b> · Buenos Aires, Argentina 🇦🇷
+  <b>Backend Developer & Project Lead</b> · Buenos Aires, Argentina 🇦🇷
 </p>
 
 <p align="center">
